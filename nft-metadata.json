@@ -1,0 +1,12 @@
+{
+    "attributes":[ {
+        "trait_type" : "Mangolian",
+        "value" : "Bishop"
+    },{
+        "trait_type":"Moustache",
+        "value":"Brown"
+    } ],
+    "description" :"Cleverest and Mightiest of all",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmc6kUJw1SQdceGf72juBXJJXJbz7Nw5N6BJSabc9QE1Vt",
+    "name": "Bagola"
+}

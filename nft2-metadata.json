@@ -1,0 +1,12 @@
+{
+    "attributes":[ {
+        "trait_type" : "Mangolian",
+        "value" : "Vigor"
+    },{
+        "trait_type":"Moustache",
+        "value":"Brown"
+    } ],
+    "description" :"Cleverest and Mightiest of all",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPuzyTza4umK8FzZZHvYsVLyEpAivHNxa1FiLA7p71Yqk",
+    "name": "Bagola3"
+}
